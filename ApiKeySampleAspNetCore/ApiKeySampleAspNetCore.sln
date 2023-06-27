@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiKeySampleAspNetCore", "ApiKeySampleAspNetCore\ApiKeySampleAspNetCore.csproj", "{7A354DAC-75FF-4798-B6B5-04E1A63493AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A354DAC-75FF-4798-B6B5-04E1A63493AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A354DAC-75FF-4798-B6B5-04E1A63493AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A354DAC-75FF-4798-B6B5-04E1A63493AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A354DAC-75FF-4798-B6B5-04E1A63493AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B6F9568-6C33-40EE-BD38-B8467E5514D6}
+	EndGlobalSection
+EndGlobal
